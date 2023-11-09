@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj": {}
+    "C:\\Users\\lenovo\\Source\\Repos\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj": {
+    "C:\\Users\\lenovo\\Source\\Repos\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Source\\Repos\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj",
         "projectName": "LibraryWebApp",
-        "projectPath": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Source\\Repos\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Source\\Repos\\library-web-app\\LibraryWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
