@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Source\\Repos\\ggulsum\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj",
       "projectName": "LibraryWebApp",
-      "projectPath": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\LibraryWebApp.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Source\\Repos\\ggulsum\\library-web-app\\LibraryWebApp\\LibraryWebApp.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\WebGeliştirme\\LibraryWebApp\\LibraryWebApp\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Source\\Repos\\ggulsum\\library-web-app\\LibraryWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
